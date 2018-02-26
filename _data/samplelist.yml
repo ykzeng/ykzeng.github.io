@@ -1,0 +1,17 @@
+docs_list_title: Kbeznak Parmatonic
+docs:
+
+- title: Homepage
+  url: index.html
+
+- title: About
+  url: about.html
+
+- title: FAQ
+  url: faq.html
+
+- title: Contact
+  url: contact.html
+
+- title: Sitemap
+  url: sitemap.xml
